@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH341a_i2c_par_eeprom", "CH341a_i2c_par_eeprom.csproj", "{16BBFF84-2DC0-4983-9C92-006F8A5A6BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16BBFF84-2DC0-4983-9C92-006F8A5A6BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BBFF84-2DC0-4983-9C92-006F8A5A6BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BBFF84-2DC0-4983-9C92-006F8A5A6BBB}.Debug|x64.ActiveCfg = Debug|x64
+		{16BBFF84-2DC0-4983-9C92-006F8A5A6BBB}.Debug|x64.Build.0 = Debug|x64
+		{16BBFF84-2DC0-4983-9C92-006F8A5A6BBB}.Debug|x86.ActiveCfg = Debug|x86
+		{16BBFF84-2DC0-4983-9C92-006F8A5A6BBB}.Debug|x86.Build.0 = Debug|x86
+		{16BBFF84-2DC0-4983-9C92-006F8A5A6BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BBFF84-2DC0-4983-9C92-006F8A5A6BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BBFF84-2DC0-4983-9C92-006F8A5A6BBB}.Release|x64.ActiveCfg = Release|x64
+		{16BBFF84-2DC0-4983-9C92-006F8A5A6BBB}.Release|x64.Build.0 = Release|x64
+		{16BBFF84-2DC0-4983-9C92-006F8A5A6BBB}.Release|x86.ActiveCfg = Release|x86
+		{16BBFF84-2DC0-4983-9C92-006F8A5A6BBB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26968AFA-F66B-4CA5-A500-D27D1D8F2E8F}
+	EndGlobalSection
+EndGlobal
